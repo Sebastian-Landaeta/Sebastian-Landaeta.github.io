@@ -1,0 +1,18 @@
+Matching documents: 
+
+Title: Twitter
+URL: html_files/subdir1/subdir2/subdir3/subdir4/file11.html
+Description: CNN Breaking News (@cnnbrk) / X
+Snippet: 
+
+Title: Wikipedia
+URL: html_files/subdir1/subdir2/subdir3/subdir5/file16.html
+Description: Tom Cruise - Wikipedia
+Snippet: Rihanna 'selling penthouse once owned by Matthew Perry for $25 million' - less than one year after purchasing luxury LA 
+
+Title: Apple Music
+URL: html_files/subdir1/subdir2/subdir3/subdir5/file15.html
+Description: Lady Gaga
+Snippet: You sure you don’t want to wait for tomorrow?’"
+
+SPURS LEGEND GREGG POPOVICH SENDS HOST BACK IN HILARIOUS HALL OF FA

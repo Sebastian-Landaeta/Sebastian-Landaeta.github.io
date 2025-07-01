@@ -1,0 +1,17 @@
+Matching documents: 
+
+Title: GRAMMY.com
+URL: html_files/subdir1/subdir2/subdir3/subdir5/subdir6/subdir7/file19.html
+Description: Lady Gaga | Artist
+Snippet: Prison Break is a drama from executive producers Brett Ratner, Paul Scheuring, Matt Olmstead, Marty Adelstein, Dawn Paro
+
+Title: Maroon 5
+URL: html_files/subdir1/subdir2/subdir3/subdir5/subdir6/subdir7/subdir8/file22.html
+Description: Maroon 5: Home
+Snippet: Prison Break is an American serial drama television series created by Paul Scheuring for Fox.
+New ‘Prison Break’ Ser
+
+Title: Skylar White
+URL: html_files/subdir1/subdir2/subdir3/subdir5/subdir6/subdir7/subdir8/subdir9/subdir10/subdir11/subdir12/file31.html
+Description: Breaking Bad
+Snippet: “I think Skyler White provides telling evidence that moral codes and standards of moral evaluation remain gendered in 

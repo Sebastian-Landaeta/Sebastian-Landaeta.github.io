@@ -1,0 +1,78 @@
+========================================
+Wilensky Locks & Hardware
+Contractors, Home Services, Home & Garden, Hardware Stores, Keys & Locksmiths, Door Sales\/Installation, Shopping, Building Supplies
+4.5
+2
+19147
+50
+========================================
+Super Acucare Inc
+Beauty & Spas, Massage, Acupuncture, Health & Medical
+4.5
+1
+19107
+47
+========================================
+Best Mattress
+Home & Garden, Mattresses, Shopping, Furniture Stores
+5
+2
+85705
+37
+========================================
+IHOP
+Breakfast & Brunch, Burgers, Restaurants, American (Traditional), American (New)
+3
+2
+70001
+75
+========================================
+CVS Pharmacy
+Food, Convenience Stores, Shopping, Drugstores, Health & Medical, Pharmacy
+2
+2
+46256
+15
+========================================
+A Little Taste of Heaven Bakery
+Food, Cupcakes, Bakeries, Patisserie\/Cake Shop, Desserts, Donuts
+4.5
+1
+62062
+37
+========================================
+Mattress Firm Harvard
+Mattresses, Furniture Stores, Shopping, Home & Garden
+4.5
+2
+89502
+33
+========================================
+Branch Electric
+Electricians, Home Services
+5
+-1
+46227
+8
+========================================
+Petco
+Pets, Pet Training, Pet Groomers, Pet Stores, Pet Services
+3.5
+-1
+85705
+25
+========================================
+Hawkins Field
+Stadiums & Arenas, Arts & Entertainment
+4.5
+-1
+37212
+10
+========================================
+Generation Otaku
+Shopping, Hobby Shops
+4.5
+1
+19804
+6
+========================================

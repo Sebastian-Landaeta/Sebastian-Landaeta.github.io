@@ -1,0 +1,23 @@
+Matching documents: 
+
+Title: Skylar White
+URL: html_files/subdir1/subdir2/subdir3/subdir5/subdir6/subdir7/subdir8/subdir9/subdir10/subdir11/subdir12/file31.html
+Description: Breaking Bad
+Snippet: Skyler White: the Breaking Bad underdog who set the template for TV's antiheroine
+This article is more than 6 years old
+
+
+Title: Facebook
+URL: html_files/subdir1/subdir2/subdir3/subdir5/subdir6/subdir7/subdir8/subdir9/subdir10/file28.html
+Description: Boston University
+Snippet: The Breaking Bad and El Camino star has decided that his two recent appearances on Better Call Saul are the perfect way 
+
+Title: Bleacher Report
+URL: html_files/subdir1/subdir2/subdir3/subdir5/subdir6/subdir7/file17.html
+Description: Boston Celtics - NBA
+Snippet: The original cast of Breaking Bad reunited at the 2024 SAG Awards more than 10 years since the original show ended and a
+
+Title: The Vogue
+URL: html_files/subdir1/subdir2/subdir3/subdir5/subdir6/subdir7/subdir8/subdir9/subdir10/file26.html
+Description: Maroon 5
+Snippet: Westworld season four aired concurrently to Paul’s return to the Breaking Bad universe, and he received rave reviews f
